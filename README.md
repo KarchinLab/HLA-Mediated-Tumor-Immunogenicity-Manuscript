@@ -1,4 +1,4 @@
-# HLA-Mediated-Tumor-Immunogenicity-Figures
+# HLA-Mediated-Tumor-Immunogenicity-Manuscript
 Figure.R: code for main figures and supplementary figures
 
 hr_plots.R: code for hazard ratio plots.
