@@ -3,6 +3,8 @@ Figure.R: code for main figures and supplementary figures
 
 hr_plots.R: code for hazard ratio plots.
 
+HLA-alleles.R: code for HLA supertypes and HLA allele groups.
+
 heatmap.R: code to generate heatmaps.
 
 GTEx-figures.R: code for generating GTEx figures. 
