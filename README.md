@@ -1,20 +1,17 @@
 # HLA-Mediated-Tumor-Immunogenicity-Manuscript
-Figure.R: code for main figures and supplementary figures
 
-hr_plots.R: code for hazard ratio plots.
+Figure1.R: code related to Figure 1 and S1.
 
-HLA-alleles.R: code for HLA supertypes and HLA allele groups.
+Figure2.R: code related to Figure 2 and S2.
 
-heatmap.R: code to generate heatmaps.
+Figure3.R: code related to Figure 3 and S3.
 
-GTEx-figures.R: code for generating GTEx figures. 
+Figure4.R: code related to Figure 4 and S4.
 
-HLALOH_plots.R: code for HLA LOH analysis and plotting.
+Figure5.R: code related to Figure 5 and S5.
 
-PCA.R: code for Principle Component Analysis (PCA). 
+Figure6.R: code related to Figure 6 and S6.
 
-UPDATE-highCYT-classifiers.ipynb: Random Forest classification for cytolytic activity (CYT) prediction.
+PanCan-Random-Forest-Cross-Validation.ipynb: code related to training and cross-validating the PanCan Random Forest Classifier.
 
-UPDATE-multiclass-neural-network.ipynb: neural network model for immune subtype prediction.
-
-UPDATE-met-classifiers.ipynb: Logistic Regression classification for C2/C3 prediction.
+SKCM-Random-Forest-Classifier.ipynb: code related to training and cross-validating the SKCM Random Forest Classifier, as well as immune subtype prediction for ICI-treated patients. 
