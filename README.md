@@ -14,4 +14,4 @@ Figure6.R: code related to Figure 6 and S6.
 
 PanCan-Random-Forest-Cross-Validation.ipynb: code related to training and cross-validating the PanCan Random Forest Classifier.
 
-SKCM-Random-Forest-Classifier.ipynb: code related to training and cross-validating the SKCM Random Forest Classifier, as well as immune subtype prediction for ICI-treated patients. 
+SKCM-Random-Forest-Classifier-final.ipynb: code related to training and cross-validating the SKCM Random Forest Classifier, as well as immune subtype prediction for ICI-treated patients. 
